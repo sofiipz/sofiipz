@@ -1,4 +1,6 @@
-## ✨ ¡Hola, soy Sofía! ✨
+## ¡Hola, soy Sofía! ✨
+
+
 ## 💡 Sobre mí
 💻 Programadora en formación
 
@@ -8,8 +10,8 @@
 
 ## ⌨️ Tecnologías que uso
 
-🖥️ **Lenguajes:** Java, MySQL, HTML, CSS y JavaScript  
-🛠️ **Recursos de desarrollo:** JUnit, GitHub, MySQL Workbench, Trello, JDBC (Java Database Connectivity), IntelliJ IDEA... 
+**Lenguajes:** Java, MySQL, HTML, CSS y JavaScript  
+**Recursos de desarrollo:** JUnit, GitHub, MySQL Workbench, Trello, JDBC (Java Database Connectivity), IntelliJ IDEA... 
 
 
 📌 Siempre buscando mejorar y aprender cosas nuevas.  
@@ -27,5 +29,5 @@
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiipz&layout=compact&theme=default)   
 ![Resumen de actividad](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofiipz&theme=default)  
 
----
+
 🎀 **¡Gracias por pasarte por aquí!** 🎀
