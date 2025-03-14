@@ -1,10 +1,9 @@
 ## ✨ ¡Hola, soy Sofía! ✨
-
-
-
 ## 💡 Sobre mí
 💻 Programadora en formación
-👩🏻‍💻 Estudiante del Grado Superior de **Desarrollo de Aplicaciones Multiplataforma (DAM)**   
+
+👩🏻‍💻 Estudiante del Grado Superior de **Desarrollo de Aplicaciones Multiplataforma (DAM)** 
+
 🌈 Aprendiendo y explorando el mundo de la programación  
 
 ## ⌨️ Tecnologías que uso
