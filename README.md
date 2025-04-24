@@ -7,7 +7,7 @@
 ## ⌨️ Tecnologías que uso
 
 **Lenguajes:** Java, MySQL, HTML, CSS y JavaScript  
-**Recursos de desarrollo:** JUnit, GitHub, MySQL Workbench, JDBC (Java Database Connectivity)... 
+**Recursos de desarrollo:** JUnit, GitHub, MySQL Workbench, Docker... 
 
 📌 Siempre buscando mejorar y aprender cosas nuevas.  
 
